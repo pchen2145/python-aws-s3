@@ -1,0 +1,16 @@
+---
+buckets:
+  - name: hobbiesforadults
+    files: 
+      - artofcooking.txt
+      - skateboarding.txt
+      - tennispros.txt
+      - surfing.txt
+  - name: citiestovisit
+    files:
+      - sandiegoca.txt
+      - minneapolismn.txt
+  - name: animalsatthezoo
+    files:
+      - monkeys.txt
+      - bigpandas.txt
